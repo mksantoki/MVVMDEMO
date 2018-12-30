@@ -6,5 +6,5 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
-![Flow 1](http://url/to/img.png)
-![Flow 2](http://url/to/img.png)
+![Flow 1](https://github.com/mksantoki/MVVMDEMO/blob/master/img/step_one.png)
+![Flow 2](https://github.com/mksantoki/MVVMDEMO/blob/master/img/step_two.png)
