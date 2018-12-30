@@ -16,3 +16,8 @@
 - Model -> Mode class is structure of data 
 
 ![Flow 2](https://github.com/mksantoki/MVVMDEMO/blob/master/img/step_two.png)
+
+- View -> View will your activity or fragment
+- ViewModel -> ViewModel is use to transfer data between view and datamodel
+- DataModel -> Datamodel is use to perform business login
+- Model -> Mode class is structure of data 
